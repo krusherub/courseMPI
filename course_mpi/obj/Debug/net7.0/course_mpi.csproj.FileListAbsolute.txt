@@ -1,0 +1,17 @@
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\bin\Debug\net7.0\course_mpi.exe
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\bin\Debug\net7.0\course_mpi.deps.json
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\bin\Debug\net7.0\course_mpi.runtimeconfig.json
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\bin\Debug\net7.0\course_mpi.dll
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\bin\Debug\net7.0\course_mpi.pdb
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.csproj.AssemblyReference.cache
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.AssemblyInfoInputs.cache
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.AssemblyInfo.cs
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.csproj.CoreCompileInputs.cache
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.dll
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\refint\course_mpi.dll
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.pdb
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.genruntimeconfig.cache
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\ref\course_mpi.dll
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\bin\Debug\net7.0\MPI.dll
+C:\Users\korol\RiderProjects\course_mpi\course_mpi\obj\Debug\net7.0\course_mpi.csproj.CopyComplete
